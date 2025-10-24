@@ -195,4 +195,5 @@ def main():
 if __name__ == "__main__":
     main()
 
-"""py -m streamlit run app.py"""
+# Ejecutar Normalmente con "py -m streamlit run app.py"
+# Ejecutar con cmd "python -m streamlit run app.py"
